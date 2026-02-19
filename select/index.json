@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "劇場",
+  "base_artist": "natori",
+  "createdAt": "2026-02-19T05:44:42.048595Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "劇場",
+      "artist": "なとり",
+      "has_synced": true,
+      "path": "select/01_劇場_なとり.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "劇場",
+      "artist": "なとり",
+      "has_synced": false,
+      "path": "select/pl_01_劇場_なとり.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "劇場",
+      "artist": "なとり",
+      "has_synced": false,
+      "path": "select/pl_02_劇場_なとり.txt"
+    }
+  ]
+}
